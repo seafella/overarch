@@ -55,3 +55,12 @@ less than a distro but more than a docker-compose that spins up your dev contain
 │└─────────────────────────────────────────────────────────────────────────┘   │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
+
+## git submodules!!
+```
+# clone
+> git clone --recursive https://github.com/seafella/overarch.git
+
+# update
+> git submodule update --init --recursive
+```

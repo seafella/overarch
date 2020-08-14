@@ -1,0 +1,3 @@
+[submodule "chararch"]
+	path = chararch
+	url = https://github.com/seafella/chararch.git
